@@ -1,8 +1,8 @@
 // A) maak 2 verschillende variabelen met twee willekeurige integers (zelf kiezen)
 
 // jouw code hierondeer-->> 
-var ;
-var ;
+var getal1 = 23;
+var getal2 = 19;
 
 // B) toon beide getallen op het scherm met document.getElementById('<jouw_gekozen_id>').innerHTML
 
